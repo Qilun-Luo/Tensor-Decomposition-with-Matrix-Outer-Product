@@ -12,3 +12,5 @@ with the $(i,j,k)$-th entry of $\mathcal{T}$  being defined as
 ```
 
 where $i=1,2,\cdots n_1;~j=1,2,\cdots,n_2;~k=1,2,\cdots, n_3$. The graphical illustration of the matrix outer product is shown as follows.
+
+![Matrix Outer Product](images/fig-mop.png?raw=true "Matrix Outer Product")
