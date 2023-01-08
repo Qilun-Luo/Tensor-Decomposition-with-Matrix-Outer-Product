@@ -68,3 +68,13 @@ Given the model parameters $\mathcal{U}$, $\mathcal{V}$, $\mathcal{W}$, $\mathca
 \end{aligned}
 ```
 
+### Applications
+- Tensor Aprroximation
+  - Synthetic: `demo_als_synthetic.m`
+  - HSI/MSI: `demo_als_image.m`
+- Tensor Completion
+  - HSI Completion: `demo_tc_hyperspectral_data.m`
+  - Traffice Data Imputation: `demo_tc_traffic_data.m` 
+- Tensor RPCA
+  - HSI/MSI denoising: `demo_rpca_hyperspectral_data.m`
+  - Background Subtraction: `demo_rpca_background_subtraction.m`
