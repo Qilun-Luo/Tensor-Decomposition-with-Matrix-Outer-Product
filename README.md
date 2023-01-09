@@ -71,7 +71,6 @@ Given the model parameters $\mathcal{U}$, $\mathcal{V}$, $\mathcal{W}$, $\mathca
 ### Applications
 - Tensor Aprroximation
   - Synthetic: `demo_als_synthetic.m`
-  - HSI/MSI: `demo_als_image.m`
 - Tensor Completion
   - HSI Completion: `demo_tc_hyperspectral_data.m`
   - Traffice Data Imputation: `demo_tc_traffic_data.m` 
