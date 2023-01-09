@@ -77,3 +77,13 @@ Given the model parameters $\mathcal{U}$, $\mathcal{V}$, $\mathcal{W}$, $\mathca
 - Tensor RPCA
   - HSI/MSI denoising: `demo_rpca_hyperspectral_data.m`
   - Background Subtraction: `demo_rpca_background_subtraction.m`
+    
+ ### Folders
+ - `algs` includes only the proposed methods.
+ - `data` contains datasets.
+    - `HSI`: [hyperspectral](https://rslab.ut.ac.ir/data)/[multispectral](https://cave.cs.columbia.edu/repository/Multispectral) images;
+    - `traffic_data`: [PeMS](https://github.com/VeritasYin/STGCN_IJCAI-18) traffic speed data set and [Guangzhou](https://zenodo.org/record/1205229) urban traffic speed data set;
+    - `dataset2014`: **download** from [Google Drive](https://drive.google.com/drive/folders/1ksb1tZrCBFUFAMUx-GzSmsDWee2suwzu?usp=sharing) or [ChangeDetection.net(CDNet) dataset2014](http://changedetection.net/).
+        > Wang Y, Jodoin P M, Porikli F, et al. CDnet 2014: An expanded change detection benchmark dataset[C]//Proceedings of the IEEE conference on computer vision and pattern recognition workshops. 2014: 387-394.
+- `utils` includes some utilities scripts.
+
