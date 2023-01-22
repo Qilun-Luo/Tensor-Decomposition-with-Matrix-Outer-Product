@@ -1,7 +1,7 @@
 # Tensor-Decomposition-with-Matrix-Outer-Product
 Matlab Implementation for the paper:
 
-Luo, Q., Yang, M., Li, W., & Xiao, M. (2023). Multi-Dimensional Data Processing with Bayesian Inference via Structural Block Decomposition. *IEEE Transactions on Cybernetics*, 10.1109/TCYB.2023.3234356.
+Luo, Q., Yang, M., Li, W., & Xiao, M. (2023). Multi-Dimensional Data Processing with Bayesian Inference via Structural Block Decomposition. *IEEE Transactions on Cybernetics*, [10.1109/TCYB.2023.3234356](https://doi.org/10.1109/TCYB.2023.3234356).
 
 - **Matrix Outer Product**
 
